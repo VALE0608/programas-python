@@ -1,6 +1,6 @@
-# Programa 1: Programa que solicita tu nombre y después te immprime un saludo personalizado
+# Programa 1: programa que imprima un mensaje de texto en pantalla
 # Fecha de elaboración: 2024/10/14
 # Elaborado por: Valeria Jaqueline Rodarte García
 
 nombre = input("¿Cómo te llamas?")
-print("Hola,", nombre,"!")
+print("Hola,", nombre,"!") #programa que muestra tu nombre
