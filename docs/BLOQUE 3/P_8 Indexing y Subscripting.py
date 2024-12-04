@@ -1,4 +1,4 @@
-# Programa 7: Tipo de datos lista y tipos de datos de los elementos
+# Programa 8: Tipo de datos lista y tipos de datos de los elementos
 # Fecha: 2024/10/31
 # Elaborado por: Valeria Jaqueline Rodarte García
 
