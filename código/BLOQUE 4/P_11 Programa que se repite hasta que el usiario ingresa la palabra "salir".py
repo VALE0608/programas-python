@@ -1,4 +1,4 @@
-# Programa 11: Programa que se repite hasta que el usiario ingresa la palabra "salir"
+# Programa 11: Programa que se repite hasta que el usuario ingresa la palabra "salir"
 # Fecha: 2024/11/8
 # Elaborado por: Valeria Jaqueline Rodarte García
 
