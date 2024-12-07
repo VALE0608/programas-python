@@ -4,7 +4,7 @@
 
 nombre = "Edinguer"
 edad = 27
-calificación: 93.8
+calificación = 93.8
 print("Mi nombre es: " + nombre + "mi edad es: " + str(edad) + "mi calificación es: " + calificación)
 
 print(f"Nombre{nombre}, edad:{edad}, promedio:{calificación}")
